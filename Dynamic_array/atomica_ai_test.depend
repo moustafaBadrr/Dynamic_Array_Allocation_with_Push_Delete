@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652864076 source:e:\mustafa\fcai\data structures preparation\atomica_ai_test\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+
