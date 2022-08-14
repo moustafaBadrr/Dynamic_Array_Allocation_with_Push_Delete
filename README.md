@@ -1,7 +1,7 @@
 # Dynamic_Array_Allocation_with_Push_Delete
 C++ Program Implementing Dynamic Array Features
 
-# the task whcih i implemented
+# the task which i implemented
 
 # General C++ Test
 
